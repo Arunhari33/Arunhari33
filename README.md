@@ -8,6 +8,4 @@
 - 👉 Interseted in Web applications
 - 📫 How to reach me: https://www.linkedin.com/in/hari-arun-kumar-4a4948212/
 
-More with me :- Hi there, I’m <a href=”https://www.linkedin.com/in/hari-arun-kumar-4a4948212/”>Yu</a> 👋
-
  ![](https://github.com/Arunhari33/Hari-Arun-Kumar/blob/main/gif.gif)
