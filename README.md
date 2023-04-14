@@ -7,4 +7,4 @@
 - 👉 Good Knowledge in Devops
 - 👉 Interseted in Web applications
 - 📫 How to reach me: https://www.linkedin.com/in/hari-arun-kumar-4a4948212/
- https://github.com/Arunhari33/Hari-Arun-Kumar/blob/main/gif.gif
+ ![](https://github.com/Arunhari33/Hari-Arun-Kumar/blob/main/gif.gif)
