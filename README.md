@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 
 
 - 🔭 I’m OpenToWork
 - 💬 B.tech,CSE(2019-2023)
